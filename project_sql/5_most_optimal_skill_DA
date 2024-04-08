@@ -49,7 +49,7 @@ WITH in_demand_skills AS
     
     )
 
-
+-- rewriting the query more consisely 
 SELECT
     skills_dim.skill_id,
     skills_dim.skills,
