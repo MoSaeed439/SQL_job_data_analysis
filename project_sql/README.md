@@ -52,7 +52,7 @@ Overview of Leading Data Analyst Positions in 2023:
 2. **Variety of Hiring Companies:** Firms such as SmartAsset, Meta, and AT&T, known for their competitive pay packages, represent a wide range of sectors showing keen interest in data analytics talent.
 3. **Diversity in Job Roles:** The field features a broad spectrum of titles, from Data Analyst to Director of Analytics, indicating the diverse opportunities and areas of expertise available in data analytics.
 
-![Top Paying Roles](..\project_sql/top_10_data_analyst_jobs_2023.png)
+![Top Paying Roles](../project_sql/top_10_data_analyst_jobs_2023.png)
 
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
